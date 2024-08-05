@@ -1,0 +1,449 @@
+body{
+    background-color: #F1DBB6;
+   height: 100vh;
+}
+.mitext {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    color: blue;
+    font-weight: 700;
+}
+
+.logo{
+    width: 240px;
+    height: 64px;
+    
+    /* display: flex; */
+    color: black;
+    margin-bottom: 22px;
+    margin-top: 20px;
+}
+
+.Search {
+    width: 12px;
+    height: 12px;
+    /* margin-left: 115px; */
+    
+}
+
+.text {
+    font-family: "Josefin Sans";
+    font-size: 13px;
+    font-weight: 400;
+    margin-left: 5px;
+    color: black;
+    /* margin-top: 0.1px; */
+}
+
+.first{
+    display: flex;
+    align-items: center;
+    gap: 1%;
+    width: 5%;
+    /* justify-content: space-between; */
+    
+}
+
+.second{
+    font-family: "Josefin Sans";
+    font-size: 13px;
+    font-weight: 300;
+    color: black;
+}
+
+.third{
+   border: none;
+   color:rgba(0, 0, 0, 1);
+   outline: none;  
+   background-color: transparent;
+}
+
+.fourth{
+    display: flex;
+}
+
+.fifth{
+    display: flex;
+    gap : 4%;
+    width: 70%;
+    /* margin-right: 10px; */
+    margin-left: -40px;
+}
+
+.seventh{
+    display: flex;
+    
+}
+
+.eight{ 
+    font-family: "Josefin Sans";
+    font-size: 13px;
+    font-weight: 300;
+    color: black;
+}
+
+.ninth{
+    border: none;
+    color:rgba(0, 0, 0, 1);
+    outline: none;  
+    background-color: transparent;
+ }
+
+ .ten{
+    display: flex;
+ }
+
+ .eleven{
+    font-family: "Josefin Sans";
+    font-size: 13px;
+    font-weight: 300;
+    color: black;
+}
+ 
+.twelve{
+    border: none;
+    color:rgba(0, 0, 0, 1);
+    outline: none;  
+    background-color: transparent;
+ }
+
+ .thirteen{
+    display: flex;
+ }
+
+ .fourteen{
+    font-family: "Josefin Sans";
+    font-size: 13px;
+    font-weight: 300;
+    color: black;
+}
+ 
+.fifteen{
+    border: none;
+    color:rgba(0, 0, 0, 1);
+    outline: none;  
+    background-color: transparent;
+ }
+
+ .sixteen{
+    display: flex;
+ }
+
+ .seventeen{
+    font-family: "Josefin Sans";
+    font-size: 13px;
+    font-weight: 300;
+    color: black;
+ }
+
+ .eighteen{
+    border: none;
+    color:rgba(0, 0, 0, 1);
+    outline: none;  
+    background-color: transparent;
+ }
+
+ .list{
+    width: 16.2px;
+    height: 16.2px;
+ }
+
+ .twenty{
+    display: flex;
+    align-items: center;
+ }
+
+ .bag{
+    width: 16.2px;
+    height: 16.2px;
+ }
+
+ .profile{
+    width: 16px;
+    height: 16px;
+    margin-left: 2px; 
+ }
+
+ .txt{
+    font-family:"Josefin Sans";
+    font-size: 12px;
+    font-weight: 400;
+    margin-right: 2px;
+ }
+
+ .tin{
+    display: flex;
+    align-items: center;
+   justify-content: space-around;
+    /* gap: 2%; */
+    border: 1px solid black;
+    border-radius: 999px;
+    width:79px ;
+    height: 24px; 
+ }
+
+ .file{
+    display: flex;
+    gap: 2%;
+    align-items: center;
+    width: 17%;
+    justify-content: space-between;
+    /* margin-right: 117px; */
+ }
+
+ .big{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    gap: 5%;
+   text-align : center;
+ }
+
+ .navhead {
+    display: flex;
+    align-items: center;
+      flex-direction: column;
+   }
+
+
+ .menu-icon{
+   display: none;
+}
+
+.close-menu{
+   display: none;
+}
+
+.menu {
+   display: flex;
+   justify-content: space-between;
+   width: 65%;
+}
+
+ .hero{
+    width: 662px;
+    height: 616px;
+ }
+
+ .end{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+ }
+
+ .one{
+    font-family: Marcellus;
+    font-weight: 400;
+    font-size: 92px;
+    margin-bottom: -230px;
+    width: 510.9px;
+ }
+
+ .two{
+    font-family: Marcellus;
+    font-weight: 400;
+    font-size: 222px;
+ }
+
+ .three{
+    font-family: "Josefin Sans";
+    font-weight: 300;
+    font-size: 30px;
+    margin-top: -230px;
+ }
+
+ .four{
+    background-color: black;
+    color: white;
+    border-radius: 80px;
+    font-family: "Josefin Sans";
+    font-weight: 400;
+    font-size: 15px;
+    padding:  15px 20px;
+ }
+
+.seven{
+    display: none;
+    background-color: black;
+    color: white;
+    border-radius: 80px;
+    font-family: "Josefin Sans";
+    font-weight: 400;
+    font-size: 15px;
+    padding:  15px 20px;
+    margin-left: 220px;
+ }
+
+ .six{
+    margin-top: -40px;
+ }
+
+ .twelve{
+   background-color: transparent;
+   font-family: "Josefin Sans";
+   font-size: 13px;
+   font-weight: 400;
+ }
+
+ @media(max-width:992px){
+   .navhead{
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+      justify-content: space-between;
+      gap: 25%;
+   }
+
+   .hero{
+       margin-inline: 1rem;
+   }
+
+   .hero-img{
+       display: none;
+
+   }
+
+
+   .desktop-sign-up{
+       display: none;
+   }
+
+   .mobile-sign-up{
+       display: initial;
+   }
+   
+   .menu{
+       background-color: #F1DBB6;
+       box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+       /* padding: 1.5rem; */
+       height: 100vh;
+       width: 100vw;
+       z-index: 1000;
+       display: none;
+       position: absolute;
+       top: 0;
+       right: -88%;
+       /* align-items: start; */
+       align-content: start;
+       gap: 30px;
+   }
+
+   .close-menu{
+       display: block;
+       height: 40px;
+       position: absolute;
+       top: 1rem;
+       right: 1.5rem;
+   }
+
+   .fifth{
+       display: grid;
+       align-items: start;
+       gap: 1rem;
+       margin-top: 3rem;
+       margin-right: 0;
+       margin-left: 45px;
+   }
+
+
+   .menu-icon {
+       display: block;
+       height: 40px;
+   }
+
+   .second{
+      font-family: "Josefin Sans";
+      font-size: 15px;
+      font-weight: 300;
+      color: black;
+  }
+
+  .eight{ 
+   font-family: "Josefin Sans";
+   font-size: 15px;
+   font-weight: 300;
+   color: black;
+}
+
+.eleven{
+   font-family: "Josefin Sans";
+   font-size: 15px;
+   font-weight: 300;
+   color: black;
+}
+
+.fourteen{
+   font-family: "Josefin Sans";
+   font-size: 15px;
+   font-weight: 300;
+   color: black;
+}
+
+.seventeen{
+   font-family: "Josefin Sans";
+   font-size: 15px;
+   font-weight: 300;
+   color: black;
+}
+  
+  .thirdslcct{
+     border: none;
+     color:rgba(0, 0, 0, 1);
+     outline: none;  
+     background-color: transparent;
+  }
+   
+   .end {
+   flex-direction: column;
+
+}
+
+.file {
+   flex-direction: column;
+   margin-left: 40px;
+   gap: 30px;
+}
+
+.txt {
+   display: none;
+}
+  
+.tin {
+   border: none;
+}
+
+.six {
+   margin-top: 0px;
+   display: block;
+   text-align: center;
+   width: 100%;
+   margin-left: 150px;
+   justify-content: center;
+}
+
+.Search{
+    display: none;
+   width: 20px;
+   height: 20px;
+}
+.twelve {
+   font-size:23px;
+}
+.one{
+    margin-left: -50px;
+}
+
+.two{
+    font-size: 210.1px;
+}
+.four{
+    display: none;
+}
+
+.seven{
+    display: block;
+    justify-content: center;
+}
+
+  
+}
